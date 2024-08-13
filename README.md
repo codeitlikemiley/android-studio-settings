@@ -118,7 +118,7 @@ Mainly used for refactoring and documentation
 | Keyboard Shorcuts                            | Description               |
 | -------------------------------------------- | ------------------------- |
 | <kbd>CMD</kbd>+<kbd>R</kbd>                  | Run Context Configuration |
-| <kbd>CTRL</kbd>+<kbd>R</kbd>                 | Run                       |
+| <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>R</kbd> | Run                       |
 
 
 
@@ -147,10 +147,10 @@ Mainly used for refactoring and documentation
 | Keyboard Shorcuts                            | Description                 |
 | -------------------------------------------- | --------------------------- |
 | <kbd>CMD</kbd>+<kbd>B</kbd>                  | Toggle Breakpoint           |
-| <kbd>CMD</kbd>+<kbd>K</kbd>                  | Resume/Pause Program        |
-| <kbd>CMD</kbd>+<kbd>L</kbd>                  | Step Into                   |
-| <kbd>CMD</kbd>+<kbd>H</kbd>                  | Step Out                    |
-| <kbd>CMD</kbd>+<kbd>J</kbd>                  | Step Over                   |
+| <kbd>OPT</kbd>+<kbd>K</kbd>                  | Resume/Pause Program        |
+| <kbd>OPT</kbd>+<kbd>L</kbd>                  | Step Into                   |
+| <kbd>OPT</kbd>+<kbd>H</kbd>                  | Step Out                    |
+| <kbd>OPT</kbd>+<kbd>J</kbd>                  | Step Over                   |
 | <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>S</kbd> | Stop                        |
 
 
@@ -239,6 +239,7 @@ Note : This are all vim keys binded using .ideavimrc
 | Keyboard Shortcut                           | Description       |
 | ------------------------------------------- | ----------------- |
 | <kbd>CMD</kbd>+<kbd>F</kbd>                 | Find              |
+| <kbd>CMD</kbd>+<kbd>E</kbd>                 | Recent Files      |
 | <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>F</kbd>| Find in Files     |
 | <kbd>CMD</kbd>+<kbd>H</kbd>                 | Replace           |
 | <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>H</kbd>| Replace in Files  |
@@ -250,7 +251,8 @@ Note : This are all vim keys binded using .ideavimrc
 | <kbd>OPT</kbd>+<kbd>A</kbd>                 | Go to Action      |
 | <kbd>CMD</kbd>+<kbd>T</kbd>                 | Go to Text        |
 | <kbd>OPT</kbd>+<kbd>T</kbd>                 | Go to Test        |
-
+| <kbd>CMD</kbd>+<kbd>[</kbd>                 | Back              |
+| <kbd>CMD</kbd>+<kbd>]</kbd>                 | Forward           |
 </details>
 
 
@@ -272,7 +274,7 @@ Note : This are all vim keys binded using .ideavimrc
 
 <details>
 <summary>
-<strong>OPT (SHIFT) [H,J,K,L]</strong>
+<strong>Move Lines / Statements</strong>
 </summary>
 
 
@@ -305,7 +307,7 @@ Note : This are all vim keys binded using .ideavimrc
 
 <details>
 <summary>
-<strong>Split Pane</strong>
+<strong>Split Panes</strong>
 </summary>
 
 | Keyboard Shortcut                        | Description        |
@@ -334,9 +336,9 @@ Note : This are all vim keys binded using .ideavimrc
 <strong>Code Folding</strong>
 </summary>
 
-| Keyboard Shortcut                              | Description                |
-| ---------------------------------------------- | -------------------------- |
-| <kbd>CMD</kbd>+<kbd>\\</kbd>                  | FoldSelection / Remove Region  |
+| Keyboard Shortcut                              | Description                    |
+| ---------------------------------------------- | -------------------------------|
+| <kbd>CMD</kbd>+<kbd>\\</kbd>                   | FoldSelection / Remove Region  |
 
 
 </details>
@@ -355,6 +357,8 @@ Note : This are all vim keys binded using .ideavimrc
 | <kbd>CMD</kbd>+<kbd>SHIFTT</kbd>+<kbd>I</kbd> | Reformat Code                        |
 | <kbd>OPT</kbd>+<kbd>SPACE</kbd>               | Insert Live Template                 |
 | <kbd>OPT</kbd>+<kbd>W</kbd>                   | Surround with                        |
+| <kbd>CMD</kbd>+<kbd>K</kbd>                   | Code Generate                        |
+| <kbd>CMD</kbd>+<kbd>K</kbd>                   | Complete Current Statement           |
 
 </details>
 
