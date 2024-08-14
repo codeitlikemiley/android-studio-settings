@@ -50,7 +50,8 @@ Note: (Hide) CMD + H and (Minimize) CMD + M should be remapped using macos keybo
 | <kbd>CMD</kbd>+<kbd>F1</kbd>               | Project           |
 | <kbd>CMD</kbd>+<kbd>F2</kbd>               | Commit            |
 | <kbd>CMD</kbd>+<kbd>F3</kbd>               | Bookmarks         |
-| <kbd>CMD</kbd>+<kbd>F4</kbd>               | Pull Request      |
+| <kbd>CMD</kbd>+<kbd>F4</kbd>               | Resource Manager  |
+| <kbd>CMD</kbd>+<kbd>F5</kbd>               | Build Variants    |
 
 </details>
 
