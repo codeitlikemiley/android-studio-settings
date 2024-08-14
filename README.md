@@ -50,8 +50,7 @@ Note: (Hide) CMD + H and (Minimize) CMD + M should be remapped using macos keybo
 | <kbd>CMD</kbd>+<kbd>F1</kbd>               | Project           |
 | <kbd>CMD</kbd>+<kbd>F2</kbd>               | Commit            |
 | <kbd>CMD</kbd>+<kbd>F3</kbd>               | Bookmarks         |
-| <kbd>CMD</kbd>+<kbd>F4</kbd>               | Resource Manager  |
-| <kbd>CMD</kbd>+<kbd>F5</kbd>               | Pull Request  |
+| <kbd>CMD</kbd>+<kbd>F4</kbd>               | Pull Request      |
 
 </details>
 
@@ -87,7 +86,7 @@ Note: (Hide) CMD + H and (Minimize) CMD + M should be remapped using macos keybo
 | <kbd>OPT</kbd>+<kbd>D</kbd>                    | Debug                          |
 | <kbd>OPT</kbd>+<kbd>F</kbd>                    | Find                           |
 | <kbd>OPT</kbd>+<kbd>R</kbd>                    | Run                            |
-| <kbd>OPT</kbd>+<kbd>SHIFT</kbd>+<kbd>D</kbd>   | Select Available Devices       |
+
 
 
 </details>
@@ -106,14 +105,16 @@ Mainly used for refactoring and documentation
 | <kbd>F2</kbd>  | Rename              |
 | <kbd>F3</kbd>  | Refactor this       |
 | <kbd>F4</kbd>  | Change Signature    |
-| <kbd>F5</kbd>  | Load Changes    |
+| <kbd>F5</kbd>  | Load Changes        |
+| <kbd>SHIFT</kbd>+<kbd>F1</kbd>               | SDK Manager                         |
+| <kbd>OPT</kbd>+<kbd>F2</kbd>                 | Project Structure                   |
 
 
 </details>
 
 <details>
 <summary>
-<strong>Run App/Test</strong>
+<strong>Runner</strong>
 </summary>
 
 | Keyboard Shorcuts                            | Description               |
@@ -143,9 +144,8 @@ Et. al.
 | <kbd>OPT</kbd>+<kbd>F2</kbd>                 | Attach Debugger to Android Process  |
 | <kbd>OPT</kbd>+<kbd>F3</kbd>                 | Sync Project With Gradle Files      |
 
-
-
 </details>
+
 
 <details>
 <summary>
@@ -473,10 +473,11 @@ Note: New has Different ways to create Files including Directory
 <strong>Context Menus</strong>
 </summary>
 
-| Keyboard Shortcut                             | Description          |
-| --------------------------------------------- | -------------------- |
-| <kbd>OPT</kbd>+<kbd>SHIFT</kbd>+<kbd>C</kbd>  | Show Color Picker    |
-| <kbd>SHIFT</kbd>+<kbd>F1</kbd>                | Show Context Menu    |
+| Keyboard Shortcut                             | Description                    |
+| --------------------------------------------- | ------------------------------ |
+| <kbd>OPT</kbd>+<kbd>SHIFT</kbd>+<kbd>C</kbd>  | Show Color Picker              |
+| <kbd>CMD</kbd>+<kbd>M</kbd>                   | Show Context Menu              |
+| <kbd>OPT</kbd>+<kbd>SHIFT</kbd>+<kbd>D</kbd>  | Select Available Devices       |
 
 </details>
 
@@ -526,7 +527,7 @@ Note: New has Different ways to create Files including Directory
 
 ## Customizing IdeaVim Keys
 
-1. Press <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>A</kbd>
+1. Press <kbd>SHIFT</kbd>+<kbd>SPACE</kbd>
 
 2. Select
 
